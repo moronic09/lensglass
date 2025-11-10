@@ -37,4 +37,5 @@ LensGlass is a privacy protection system that allows only the wearer of special 
 ---
 
 This repository is a **defensive publication**. Public disclosure is intended to prevent others from patenting the same concept.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf835e0b-c435-433d-a8f5-2d0d40aea7b3" />
 
